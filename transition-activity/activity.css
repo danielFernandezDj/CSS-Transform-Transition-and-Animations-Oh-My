@@ -1,3 +1,10 @@
+#number {
+    transform: translateY(11.5rem);
+    font-size: 36px;
+    margin: 1rem;
+    text-shadow: 0px 0px 20px rgb(198, 198, 198);
+}
+
 button {
     transition: 0.8s;
     border-radius: 10px;
@@ -40,4 +47,8 @@ img {
     border-radius: 10px;
     box-shadow: 0px 0px 20px rgb(198, 198, 198);
     transition: 0.5s;
+}
+ 
+#a-div {
+    padding: 20px;
 }
